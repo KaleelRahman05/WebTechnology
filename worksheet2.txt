@@ -1,0 +1,11 @@
+<html>
+<center><h1 style="font-family:arial;border:10px solid tomato;font-weight:700;padding:60px">
+	<span style="font-weight:700;color:tomato">Short </span> and <span style="font-weight:700;color:tomato"> Long </span> term <span styel="color:green;">Goals</span>
+</h1>
+</center>
+<ul>Short term goals:
+<li>Code Python</li>
+<li>learn networking</li>
+<li>solve leetcode</li>
+</ul>
+</html>
